@@ -1,0 +1,17 @@
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\RhombasControl.g.cs
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\App.g.cs
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl_MarkupCompile.cache
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl_MarkupCompile.lref
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\bin\Debug\UsControl.exe.config
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\bin\Debug\UsControl.exe
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\bin\Debug\UsControl.pdb
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\RhombasControl.baml
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl.g.resources
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl.exe
+C:\Users\Xiaomi\source\repos\UsControl\UsControl\obj\Debug\UsControl.pdb

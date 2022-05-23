@@ -1,0 +1,11 @@
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\bin\Debug\sprog№1.exe.config
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\bin\Debug\sprog№1.exe
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\bin\Debug\sprog№1.pdb
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog№1.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog_1.Form1.resources
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog_1.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog№1.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog№1.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog№1.exe
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog№1.pdb
+C:\Users\Xiaomi\source\repos\sprog№1\sprog№1\obj\Debug\sprog_1.butreOS.resources

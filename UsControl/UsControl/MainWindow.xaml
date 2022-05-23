@@ -1,0 +1,17 @@
+﻿<Window x:Class="UsControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UsControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:RhombasControl Header="1" Description="Сообщение с поздравлением 1" ColoredSource="Assets/1.jpg"></local:RhombasControl>
+            <local:RhombasControl Header="2" Description="Сообщение с поздравлением 2" ColoredSource="Assets/2.jpg"></local:RhombasControl>
+            <local:RhombasControl Header="3" Description="Сообщение с поздравлением 3" ColoredSource="Assets/3.jpg"></local:RhombasControl>
+            <local:RhombasControl Header="4" Description="Сообщение с поздравлением 4" ColoredSource="Assets/4.jpg"></local:RhombasControl>
+        </StackPanel>
+    </Grid>
+</Window>

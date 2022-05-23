@@ -1,0 +1,10 @@
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\obj\Debug\glava2.2.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\obj\Debug\glava2._2.Form1.resources
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\obj\Debug\glava2._2.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\obj\Debug\glava2.2.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\obj\Debug\glava2.2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\bin\Debug\glava2.2.exe.config
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\bin\Debug\glava2.2.exe
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\bin\Debug\glava2.2.pdb
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\obj\Debug\glava2.2.exe
+C:\Users\Xiaomi\source\repos\glava2.2\glava2.2\obj\Debug\glava2.2.pdb

@@ -1,0 +1,10 @@
+C:\Users\Xiaomi\source\repos\g6\g6\bin\Debug\g6.exe.config
+C:\Users\Xiaomi\source\repos\g6\g6\bin\Debug\g6.exe
+C:\Users\Xiaomi\source\repos\g6\g6\bin\Debug\g6.pdb
+C:\Users\Xiaomi\source\repos\g6\g6\obj\Debug\g6.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\g6\g6\obj\Debug\g6.Form1.resources
+C:\Users\Xiaomi\source\repos\g6\g6\obj\Debug\g6.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\g6\g6\obj\Debug\g6.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\g6\g6\obj\Debug\g6.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\g6\g6\obj\Debug\g6.exe
+C:\Users\Xiaomi\source\repos\g6\g6\obj\Debug\g6.pdb
